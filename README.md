@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋🤠
+
+### This is where you can find all my coding projects 👇.
+
+ - [Desktop Cleaner](https://github.com/SidneyRadwan/Desktop_Cleaner)
+ - More soon...
+ 
+### This is where you can find me 👇.
+ 
+ - [Linkedin](https://www.linkedin.com/in/sidney-radwan/)
 
 <!--
 **SidneyRadwan/SidneyRadwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
