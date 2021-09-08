@@ -3,6 +3,7 @@
 ### This is where you can find all my coding projects 👇
 
  - [Desktop Cleaner](https://github.com/SidneyRadwan/Desktop_Cleaner)
+ - [Sandpile Model of Self Organised Criticality](https://github.com/SidneyRadwan/sandpile-model-soc/)
  - More soon...
  
 ### This is where you can find me 👇
