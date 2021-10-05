@@ -2,8 +2,9 @@
 
 ### This is where you can find all my coding projects 👇
 
- - [Desktop Cleaner](https://github.com/SidneyRadwan/Desktop_Cleaner)
- - [Sandpile Model of Self Organised Criticality](https://github.com/SidneyRadwan/sandpile-model-soc/)
+ - GDSC USYD Chess Bots Googlethon: [Backend](https://github.com/GDSC-USYD/chess-bots-backend), [Game Master](https://github.com/GDSC-USYD/chess-bots-game-master) and [Frontend (Assisted)](https://github.com/GDSC-USYD/chess-bots)
+ - [Sandpile Model of Self-Organised Criticality](https://github.com/SidneyRadwan/sandpile-model-soc/)
+- [Desktop Cleaner](https://github.com/SidneyRadwan/Desktop_Cleaner)
  - More soon...
  
 ### This is where you can find me 👇
